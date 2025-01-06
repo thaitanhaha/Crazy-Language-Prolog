@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/main/crazy/parser/main/crazy/parser",
+        "./src/main/crazy/parser",
+        "./src/test"
+    ]
+}

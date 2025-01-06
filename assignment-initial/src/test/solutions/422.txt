@@ -1,0 +1,1 @@
+Type mismatch: do([assign(a,9),call(writeInt,[a])],add(a,10))

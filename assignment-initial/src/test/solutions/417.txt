@@ -1,0 +1,1 @@
+Type mismatch: if(add(i,10),call(writeInt,[i]))
